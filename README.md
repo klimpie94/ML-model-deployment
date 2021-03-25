@@ -1,7 +1,7 @@
 [![WGUdacity](https://circleci.com/gh/klimpie94/ML-model-deployment.svg?style=svg)](https://app.circleci.com/pipelines/github/klimpie94/ML-model-deployment)
 
 ## Project Overview
-# Summary
+# Summary 
 This project is about operationalizing a Machine learning Microservice API. Together with tools such as `Flask`, `Sklearn`, `Docker`, `Kubernetes` and `CircleCI` we have been able to deploy an app that serves out predictions about housing prices through API calls.
 # How to run
 Clone the repository to your local machine and run:
