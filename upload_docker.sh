@@ -12,6 +12,7 @@ dockerpath="aboudih/ml-api"
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker tag ml-api $dockerpath:v0.1
+docker login
 
 # Step 3:
 # Push image to a docker repository
