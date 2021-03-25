@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![WGUdacity](https://circleci.com/gh/klimpie94/ML-model-deployment.svg?style=svg)](https://app.circleci.com/pipelines/github/klimpie94/ML-model-deployment)
 
 ## Project Overview
 
